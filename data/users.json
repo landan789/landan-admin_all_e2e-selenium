@@ -1,0 +1,9 @@
+[{
+    "name": "New User",
+    "email": "test.new_user@gmail.com",
+    "password": "12345678"
+},{
+    "name": "Existing User",
+    "email": "test.existing_user@gmail.com",
+    "password": "12345678"
+}]
